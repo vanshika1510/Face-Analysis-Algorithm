@@ -65,25 +65,4 @@ The repository includes scripts to visualize model accuracy and loss.
 
 The trained models achieve **high accuracy on face classification tasks**. Model comparisons are saved in `Json Files/` and visualized in `plots/`.  
 
-## Contributing  
-Feel free to submit pull requests or raise issues if you find bugs or have improvements!  
 
-
-
----
-
-📌 **Author:** Vanshika Garg  
-📌 **GitHub:** [@vanshika1510](https://github.com/vanshika1510)  
-📌 **Contact:** vanshika1510@example.com (Replace with actual contact)  
-```
-
-### **What's Included?**
-✅ **Project Overview**  
-✅ **Features**  
-✅ **Installation Guide**  
-✅ **Dataset Info**  
-✅ **Training Instructions**  
-✅ **Visualization Scripts**  
-✅ **Results & Contribution Guide**  
-
-Let me know if you need any modifications! 🚀🔥
